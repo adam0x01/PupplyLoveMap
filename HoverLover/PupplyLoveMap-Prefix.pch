@@ -1,0 +1,27 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+#define KEY_OBJECT @"puppyLovePhoto"
+#define KEY_COMMENT @"comment"
+#define KEY_IMAGE @"imageFile"
+#define KEY_USER @"uploader"
+#define KEY_ID @"objectId"
+#define KEY_GEOLOC @"location"
+#define KEY_FULL_ADDRESS @"streeName"
+#define KEY_CITY @"city"
+#define KEY_CREATION_DATE @"createdAt"
