@@ -9,3 +9,7 @@ Including the following library:<br />
 1.MMLocationManager https://github.com/smallqiang/MMLocationManager<br />
 2.JPSThumbnailAnnotation https://github.com/jpsim/JPSThumbnailAnnotation<br />
 3.MBProgressHUD https://github.com/jdg/MBProgressHUD<br />
+
+<br />
+Preview:<br />
+<img src="http://content.jobsdb.com/Content/d0228/images/Shared/v8Revamp/logo_ftr_blue.gif">
